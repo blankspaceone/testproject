@@ -1,1 +1,12 @@
-{"name": "abcd1", "image": "https://raw.githubusercontent.com/blankspaceone/testproject/main/pics/1.png", "animation_url": "https://cloudflare-ipfs.com/ipfs/QmYkuZ88YCr4xSUXocB7FoVfZdsULgfqewcVzCT7tku1TH/metadata/puzzle/100100"}
+{
+    "name": "Bored Apes #101",
+    "description": "This is an interactive puzzle game. Click on a box adjacent to the blank space to move it. The complexity of the game can be changed from the 'options' panel. The game can be shuffled to play from a new random position. If any errors are encountered, please contact the Blankspace team on any of the social handles linked in the collection page.",
+    "image": "https://cloudflare-ipfs.com/ipfs/QmWjk56jAkCskXvMoi6YHBz2mcngcDAiSTL4NXstjydsAt/100101.png",
+    "animation_url": "https://blankspace.one/codes/puzzle/puzzle?tokenid=100101",
+    "attributes": [
+        {
+            "trait_type": "Collection",
+            "value": "Bored Apes Yatch Club"
+        }
+    ]
+}
